@@ -14,7 +14,7 @@ The script does the following:
 * Appropriately labels the data set with descriptive variable names. 
 * From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-The output of the Script is a data set named [averageData](www.google.com) which is a data set with the average of each variable for each activity and each subjecy
+The output of the Script is a data set named [averageData](https://github.com/mpizosdim/Get-and-Clean-Data--Project/blob/master/averageData.txt) which is a data set with the average of each variable for each activity and each subjecy
 
 #Information
-Additional information about the variables, data and transformation can be found in the [CodeBook.md](www.google.com)
+Additional information about the variables, data and transformation can be found in the [CodeBook.md](https://github.com/mpizosdim/Get-and-Clean-Data--Project/blob/master/CodeBook.md)
