@@ -19,23 +19,23 @@ The data are taken from a smartphone (Samsung Galaxy S II) attached on the waist
 
 The following values are found in the data set:
 
-* tBodyAcc-XYZ
-* tGravityAcc-XYZ
-* tBodyAccJerk-XYZ
-* tBodyGyro-XYZ
-* tBodyGyroJerk-XYZ
-* tBodyAccMag
-* tGravityAccMag
-* tBodyAccJerkMag
-* tBodyGyroMag
-* tBodyGyroJerkMag
-* fBodyAcc-XYZ
-* fBodyAccJerk-XYZ
-* fBodyGyro-XYZ
-* fBodyAccMag
-* fBodyAccJerkMag
-* fBodyGyroMag
-* fBodyGyroJerkMag
+* tBodyAcc-XYZ: Body accelaration in time domain
+* tGravityAcc-XYZ: Gravity accelaration in time domain
+* tBodyAccJerk-XYZ: Body acceleration Jerk in time domain
+* tBodyGyro-XYZ: Body gyroscopic in time domain
+* tBodyGyroJerk-XYZ: Body gyroscopic Jerk in time domain
+* tBodyAccMag: Body acceleration Mgnitude in time domain
+* tGravityAccMag: Gravity acceleration Mgnitude in time domain
+* tBodyAccJerkMag: Body acceleration Jerk Magnitude in time domain
+* tBodyGyroMag: Body gyroscopic Magnitude in time domain
+* tBodyGyroJerkMag: Body gyroscopic Jerk Magnitude in time domain
+* fBodyAcc-XYZ: Body accelaration in frequency domain
+* fBodyAccJerk-XYZ: Body accelaration Jerk in frequency domain
+* fBodyGyro-XYZ: Body gyroscopic in frequency domain
+* fBodyAccMag: Body accelaration Magnitude in frequency domain
+* fBodyAccJerkMag: Body accelaration Jerk Magnitude in frequency domain
+* fBodyGyroMag: Body gyroscopic Magnitude in frequency domain
+* fBodyGyroJerkMag: Body gyroscopic Jerk Magnitude in frequency domain
 
 '-XYZ' is used to denote 3-axial signals in the X, Y and Z directions. The set of variables that were taken into consideration for the analysis are:
 
@@ -54,4 +54,5 @@ The data set includes the following files:
 * `Data` contains the merged training and test sets.
 * `averageData` is a data set with the average of each variable for each activity and each subject
 
-
+# References
+1. Human Activity Recognition Using Smartphones Data Set.URL: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones . Accessed: 14/6/2015
