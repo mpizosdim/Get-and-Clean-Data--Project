@@ -44,10 +44,10 @@ The following values are found in the data set:
 
 #Folder Inventory
 The data set includes the following files:
-* Run_analysis.R: an R script that performs the analysis of the given data
-* README.md: the readme file with the general informations.
-* averageData.txt: this .txt file contains the output of the Run_analysis.R script. It containts the metadata with the averages of the mean and standard deviations(std) variables of the experiments.
-* CodeBook.md: text with the additional information of the analysis.
+* *Run_analysis.R*: an R script that performs the analysis of the given data
+* *README.md*: the readme file with the general informations.
+* *averageData.txt*: this .txt file contains the output of the Run_analysis.R script. It containts the metadata with the averages of the mean and standard deviations(std) variables of the experiments.
+* *CodeBook.md*: text with the additional information of the analysis.
 
 #Variables
 * `TestX`,`TestY`,`TrainX`,`TrainY`,`TestSubject`,`TrainSubject` contans the data from the downloaded files.
